@@ -1,0 +1,8 @@
+C:\Users\velsa\source\repos\Projeto3\bin\Debug\Projeto3.exe.config
+C:\Users\velsa\source\repos\Projeto3\bin\Debug\Projeto3.exe
+C:\Users\velsa\source\repos\Projeto3\bin\Debug\Projeto3.pdb
+C:\Users\velsa\source\repos\Projeto3\obj\Debug\Projeto3.csproj.AssemblyReference.cache
+C:\Users\velsa\source\repos\Projeto3\obj\Debug\Projeto3.csproj.SuggestedBindingRedirects.cache
+C:\Users\velsa\source\repos\Projeto3\obj\Debug\Projeto3.csproj.CoreCompileInputs.cache
+C:\Users\velsa\source\repos\Projeto3\obj\Debug\Projeto3.exe
+C:\Users\velsa\source\repos\Projeto3\obj\Debug\Projeto3.pdb
